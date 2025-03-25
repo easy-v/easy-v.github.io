@@ -34,4 +34,4 @@ Jekyll 团队声称这是为了让用户有更多的自主权，但这也导致�
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+[mit]: [https://github.com/easy-v/easy-v.github.io/blob/784bd5f11219bcb0a809709e65e7a24dde3790a5/LICENSE]
