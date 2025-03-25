@@ -1,18 +1,13 @@
-# Chirpy Starter
+# Chirpy 入门
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+[![Gem 版本](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
+[![GitHub 许可证](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+通过 [**Chirpy**][chirpy] 主题安装包 [RubyGems.org][gem] 安装时，Jekyll 只能读取主题 gem 文件中的 `_data`、`_layouts`、`_includes`、`_sass` 和 `assets` 文件夹里的文件，以及 `_config.yml` 文件的少部分选项。如果你曾经安装过此主题 gem，可以使用命令 `bundle info --path jekyll-theme-chirpy` 定位这些文件。
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Jekyll 团队声称这是为了让用户有更多的自主权，但这也导致用户在使用功能丰富的主题时无法享受开箱即用的体验。
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+要充分使用 **Chirpy** 的所有功能，需要将主题 gem 中的其他关键文件复制到你的 Jekyll 站点中。以下是需要复制的文件列表：
 
 ```shell
 .
@@ -22,20 +17,19 @@ Jekyll site. The following is a list of targets:
 └── index.html
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+为了节省你的时间，同时防止在复制文件时丢失一些文件，我们提取了最新版本 **Chirpy** 主题和 [CD][CD] 工作流的那些文件/配置到此处，以便你可以在几分钟内开始写作。
 
-## Usage
+## 使用
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+请查看[主题文档](https://github.com/cotes2020/jekyll-theme-chirpy/wiki)。
 
-## Contributing
+## 贡献
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+这个存储库会随着主题存储库的新发布自动更新。如果你遇到任何问题或想要为其改善贡献，请访问[主题存储库][chirpy]提供反馈。
 
-## License
+## 许可证
 
-This work is published under [MIT][mit] License.
+此作品根据 [MIT][mit] 许可证发布。
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
